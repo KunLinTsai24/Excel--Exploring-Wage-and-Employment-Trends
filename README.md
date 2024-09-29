@@ -43,3 +43,5 @@ Choosing the right career path is one of the most important decisions students m
 ## **Conclusion**
 
 This dashboard and report provide an insightful look at wage and employment trends, particularly for high school seniors exploring career options. By understanding the U.S. job landscape, students can better align their career aspirations with industries offering growth potential, competitive wages, and job availability.
+
+![](https://github.com/KunLinTsai24/Excel--Exploring-Wage-and-Employment-Trends/blob/main/img/Dashboard.png)
