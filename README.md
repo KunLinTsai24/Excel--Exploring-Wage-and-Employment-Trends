@@ -36,7 +36,7 @@ Choosing the right career path is one of the most important decisions students m
 3. **Dynamically Highlighting Series**:  
     Conditional formatting was applied to the map section of the dashboard to differentiate between two types of information. When the map shows **Employee per 1,000 Capita**, the regions are highlighted in **orange**, while for **Average Wage**, the regions appear in **green**. This dynamic color change helps the end user quickly distinguish between the metrics being visualized, making the dashboard more intuitive and user-friendly.
 4. **Adding Form Controls**:  
-    A drop-down list was added to allow users to select different industries, making the dashboard interactive and customizable based on user preference.
+    A bottom was added to allow users to select different industries, making the dashboard interactive and customizable based on user preference.
 5. **Protecting Workbooks and Worksheets**:  
     To ensure data integrity and prevent accidental edits, the workbook and specific sheets were protected. This helps maintain the dashboard’s accuracy for end users.
 ---
